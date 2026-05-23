@@ -1,0 +1,42 @@
+{
+  "id": "doc_qa_agent",
+  "name": "Agent B - Document QA Chatbot",
+  "description": "I Sell My Dreams by Gabriel García Márquez blends magical realism with mystery and emotion, centering on Frau Frieda, a Colombian woman who earns her living by selling dreams. After a fatal accident in Havana, the narrator suspects the dead woman—identified by her snake-shaped emerald ring—is the same enigmatic dream interpreter he once knew in Vienna. Known for influencing people’s lives through her dreams, she had advised the narrator to leave Vienna, which he did. Years later in Barcelona, she reappears and shares a strangely symmetrical dream experience with poet Pablo Neruda. Eventually, the narrator confirms from a Portuguese ambassador that the deceased woman was indeed Frau Frieda, who, when asked what she did, was described simply as someone who dreamed.",
+  "url": "http://127.0.0.1:5001/ask",
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4o-mini"
+  },
+  "tools": [
+    {
+      "name": "FAISSVectorSearch",
+      "description": "Searches for similar document chunks using FAISS based on query embedding.",
+      "parameters": [
+        {
+          "name": "embedded_query",
+          "type": "list of float",
+          "description": "Vector representation of the user query"
+        }
+      ]
+    },
+    {
+      "name": "OpenAIEmbeddings",
+      "description": "Converts user queries into embedding vectors using OpenAI’s text-embedding-ada-002 model.",
+      "parameters": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "The user query to embed"
+        }
+      ]
+    }
+  ],
+  "capabilities": [
+    "PDF-based question answering",
+    "Contextual response generation using LLM",
+    "Maintains short-term memory of previous interactions",
+    "Rejects out-of-context questions"
+  ],
+  "input": "query",
+  "output": "response"
+}

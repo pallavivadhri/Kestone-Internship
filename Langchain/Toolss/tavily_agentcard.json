@@ -1,0 +1,54 @@
+{
+  "id": "tavily_wiki_agent",
+  "name": "Agent A - Social Listening",
+  "description": "Answers questions about any topic by using a combination of Wikipedia and Tavily web search. Uses OpenAI GPT-4o-mini model with web and Wikipedia tools for up-to-date and encyclopedic information.",
+  "url": "http://127.0.0.1:5000/ask",
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4o-mini"
+  },
+  "tools": [
+    {
+      "name": "TavilySearchResults",
+      "description": "Searches the internet for relevant results using the Tavily API.",
+      "parameters": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "The search query"
+        }
+      ]
+    },
+    {
+      "name": "WikipediaQueryRun",
+      "description": "Fetches data from Wikipedia using a search query.",
+      "parameters": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "The search query"
+        }
+      ]
+    }
+  ],
+  "capabilities": [
+    "Current events lookup",
+    "Wikipedia-based research",
+    "Date-specific query handling"
+  ],
+  "input": [
+    {
+      "name": "query",
+      "type": "string",
+      "description": "A natural language question about anything"
+    }
+  ],
+  "output": [
+    {
+      "name": "response",
+      "type": "string",
+      "description": "A structured and point-wise summary "
+    }
+  ]
+  
+}
