@@ -1,0 +1,183 @@
+Original Query: latest news about tata motors
+Retrieved Content:
+### Latest News About Tata Motors
+
+1. **Decline in Sales for Jaguar Land Rover**:
+   Tata Motors recently announced that its luxury vehicle segment, Jaguar Land Rover (JLR), experienced a drop in both wholesale and retail sales for the quarter ending June 30, 2025. Retail sales slipped by 15.1% year-over-year to 94,420 units, while wholesale sales saw a decline of 21.7% sequentially. This has raised concerns regarding the overall performance amidst potential market headwinds, including impacts from US tariffs on the luxury segment. [Read more here](https://www.indiainfoline.com/news/companies/tata-motors-jlr-posts-drop-in-q1-wholesale-retail-sales).
+
+2. **Sales Decline in June 2025**:
+   Tata Motors faced a significant reduction in vehicle sales in June 2025, with passenger vehicle sales decreasing by 15% year-on-year. The company is reportedly experiencing challenges in maintaining market momentum. [Details available here](https://www.cartoq.com/car-news/tata-motors-faces-15-sales-decline-in-june-2025-amid-market-pressures).
+
+3. **Investment in EV Expansion**:
+   In a strategic move to enhance its electric vehicle (EV) portfolio, Tata Motors plans to invest approximately $4.1 billion. This investment aims to expand their vehicle offerings and solidify their position in the competitive EV market. [Learn more about the investment plans](https://www.just-auto.com/news/tata-motors-to-expand-ev-and-vehicle-portfolio-with-4-1bn-investment).
+
+4. **Innovations and New Launches**:
+   Tata Motors continues to innovate, with a recent range of new cars being showcased, highlighting their ongoing commitment to offering fresh options to consumers. For more information on the latest models and features, check out their official news page. [Explore Tata Motors' latest innovations](https://cars.tatamotors.com/news-and-events.html).
+
+These updates highlight the company's current challenges while also showcasing their commitment to expanding their electric vehicle offerings, reflecting the ongoing evolution in the automotive industry.
+
+Scraped Content:
+Tata Motors has faced a decline in both JLR's Q1 sales as well as a 15% decrease in total vehicle sales in June 2025, largely attributed to inventory corrections and heightened caution among buyers.
+
+Final Summary:
+### Summary of Latest News About Tata Motors
+
+1. **Sales Decline in Jaguar Land Rover (JLR)**:
+   - **Q1 Sales Figures**:
+     - Retail sales fell by **15.1% year-over-year** to **94,420 units**.
+     - Wholesale sales decreased by **21.7%** sequentially.
+   - **Concerns**:
+     - Potential impact from **US tariffs** on the luxury vehicle segment.
+     - Raised questions about overall performance amidst market headwinds.
+   - [More details here](https://www.indiainfoline.com/news/companies/tata-motors-jlr-posts-drop-in-q1-wholesale-retail-sales).
+
+2. **Overall Sales Decline**:
+   - **June 2025 Sales Performance**:
+     - Passenger vehicle sales dropped by **15% year-on-year**.
+     - Company facing challenges in maintaining market momentum.
+   - [Details available here](https://www.cartoq.com/car-news/tata-motors-faces-15-sales-decline-in-june-2025-amid-market-pressures).
+
+3. **Investment in Electric Vehicle Expansion**:
+   - **Planned Investment**: Approximately **$4.1 billion** aimed at expanding the electric vehicle (EV) portfolio.
+   - **Objective**: Strengthen competitive position in the EV market.
+   - [Learn more about the investment plans](https://www.just-auto.com/news/tata-motors-to-expand-ev-and-vehicle-portfolio-with-4-1bn-investment).
+
+4. **Innovations and New Vehicle Launches**:
+   - Ongoing commitment to **innovation**, with new car models being showcased.
+   - Focus on offering **fresh options** to consumers.
+   - [Explore Tata Motors' latest innovations](https://cars.tatamotors.com/news-and-events.html).
+
+### Conclusion
+- Tata Motors faces current **sales challenges**, particularly in the luxury vehicle segment, while simultaneously committing to expanding its **electric vehicle** offerings and innovating its product line.
+================================================================================
+
+Original Query: tell me about virat kohli
+Retrieved Content:
+Virat Kohli, born on November 5, 1988, is an iconic Indian international cricketer known for his competitive spirit and exceptional batting skills. He plays One Day International (ODI) cricket for the Indian national team and is a former captain across all formats. Kohli is lauded as one of the greatest batsmen in the history of cricket, earning nicknames such as "King," "Chase Master," and "Run Machine." 
+
+### Career Highlights:
+- Kohli is the highest run-scorer in the Indian Premier League (IPL) and has achieved significant milestones in international cricket, ranking third in T20I and ODI runs, and holding the record for the most ODI centuries.
+- He has accumulated a total of 82 international centuries across formats, making him the second-highest player in terms of centuries in international cricket.
+- Kohli made his debut for the Indian ODI team in 2008 and played a crucial role in India's victories in the 2011 Cricket World Cup and 2013 Champions Trophy.
+
+### Records and Achievements:
+- He was the captain of the Indian team that won the 2008 U19 World Cup and has numerous accolades, including ten ICC Awards, making him the most awarded player in international cricket history.
+- He has held the number one ODI and T20I batting rankings and is recognized for his consistent performance in all formats.
+- Kohli is the first player to score 20,000 runs in a decade and was named the Cricketer of the Decade for 2011-2020.
+
+### Personal Life:
+- Off the field, he is married to Bollywood actress Anushka Sharma, and the couple has two children. Kohli is also known for his philanthropic efforts and has been included in Time's list of the 100 most influential people in the world in 2018.
+
+Kohli's journey in cricket has been marked by significant contributions to the sport, both as a player and a captain, solidifying his legacy as a modern cricket legend.
+
+Scraped Content:
+
+
+Final Summary:
+### Summary of Virat Kohli
+
+#### Personal Information:
+- **Born**: November 5, 1988
+- **Nationality**: Indian
+- **Spouse**: Anushka Sharma (Bollywood actress)
+- **Children**: Two
+
+#### Career Overview:
+- **Profession**: International cricketer, former captain of the Indian national team
+- **Nickname**: "King," "Chase Master," "Run Machine"
+
+#### Career Highlights:
+- **ODI Debut**: 2008
+- **Major Achievements**:
+  - Key contributor to victories in the **2011 Cricket World Cup** and **2013 Champions Trophy**.
+  - Highest run-scorer in the **Indian Premier League (IPL)**.
+  - Third in all-time runs for **T20I** and **ODI** formats.
+  - Record holder for the most **ODI centuries** (49 centuries).
+  - Total of **82 international centuries** across formats, ranking as the second-highest in history.
+
+#### Records and Accolades:
+- **U19 World Cup**: Captain of the winning Indian team in 2008.
+- **ICC Awards**: 10 accolades, making him the most awarded player in cricket history.
+- Achieved the **number one ranking** in both **ODI** and **T20I** batting.
+- First player to score **20,000 runs in a decade**.
+- Named **Cricketer of the Decade** for 2011-2020.
+
+#### Personal Endeavors:
+- **Philanthropy**: Known for his charitable efforts.
+- **Influence**: Featured in **Time's 100 most influential people** in 2018.
+  
+#### Legacy:
+- Kohli's contributions to cricket as a player and captain have solidified his status as a modern cricket legend.
+================================================================================
+
+Original Query: tell me about kohli's performance in ipl
+Retrieved Content:
+Virat Kohli is regarded as one of the greatest cricketers in the history of the game, particularly noted for his performances in the Indian Premier League (IPL). He has been a key player for the Royal Challengers Bengaluru (RCB) since the league's inception in 2008.
+
+### IPL Performance Overview
+
+In the **2023 IPL season**:
+- **Matches Played**: 14
+- **Innings Batted**: 14
+- **Total Runs Scored**: 639
+- **Batting Average**: 53.25
+- **Strike Rate**: 139.82
+- **Centuries**: 2
+- **Half-Centuries**: 6
+- **Highest Score**: 101 (not out)
+
+Kohli's performance in IPL 2023 was exceptional, as he continued to demonstrate his prowess with the bat, contributing significantly to his team's performance throughout the season. His innings included two centuries, which underlines his ability to play big scores consistently.
+
+### Career Highlights in IPL
+- Kohli is the **highest run-scorer** in the history of the IPL, which adds to his legacy as a formidable player in T20 cricket.
+- He has led RCB through various seasons and holds multiple batting records, including a record for the most centuries in the IPL.
+
+Kohli is often referred to as the "Chase Master" due to his remarkable ability to score runs under pressure, especially in run-chases, adding to his reputation as one of the best T20 batsmen in history.
+
+For more detailed statistics and game-by-game breakdowns, you can explore comprehensive IPL statistics websites like IPLT20 [here](https://www.iplt20.com/stats/2023).
+
+Scraped Content:
+The IPL 2023 stats page includes notable performances such as:
+- **Top Batter**: Shubman Gill from GT with 890 runs in 17 matches, an average of 59.33, a strike rate of 157.80, and a highest score of 129, with 4 fifties and 3 centuries. 
+Additionally, the page features awards such as the Orange Cap for the highest run-scorers and other categories related to both batting and bowling performances. The full details include various statistics regarding fifties, centuries, strike rates, and records held by players throughout the season.
+
+Final Summary:
+### Summary of Virat Kohli's IPL 2023 Performance and Career Highlights
+
+#### IPL Performance Overview (2023 Season)
+- **Overall Stats**:
+  - Matches Played: 14
+  - Innings Batted: 14
+  - Total Runs Scored: 639
+  - Batting Average: 53.25
+  - Strike Rate: 139.82
+  - Centuries: 2
+  - Half-Centuries: 6
+  - Highest Score: 101 (not out)
+
+- **Performance Highlights**:
+  - Exceptional batting performance throughout the season.
+  - Demonstrated consistent ability to score high, as evidenced by two centuries.
+
+#### Career Highlights in IPL
+- Recognized as the **highest run-scorer** in IPL history.
+- Significant contribution to the Royal Challengers Bengaluru (RCB) since the league's inception in 2008.
+- Holds multiple batting records, including:
+  - Most centuries in IPL history.
+- Known as the "Chase Master" for his effectiveness in high-pressure run-chases.
+
+#### Notable IPL 2023 Comparisons
+- **Top Batter**:
+  - Shubman Gill (GT) with:
+    - Runs: 890
+    - Matches: 17
+    - Average: 59.33
+    - Strike Rate: 157.80
+    - Highest Score: 129
+    - Fifties: 4
+    - Centuries: 3
+
+#### Additional Resources
+- For more statistics and game-by-game breakdowns, visit IPLT20 [here](https://www.iplt20.com/stats/2023).
+================================================================================
+
