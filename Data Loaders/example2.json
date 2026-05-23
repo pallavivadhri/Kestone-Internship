@@ -1,0 +1,37 @@
+[
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "year": 2019,
+    "rating": 4.1
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "year": 2018,
+    "rating": 4.5
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "year": 2021,
+    "rating": 4.6
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Biography",
+    "year": 2018,
+    "rating": 4.7
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Mystery",
+    "year": 2018,
+    "rating": 4.4
+  }
+]
