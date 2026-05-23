@@ -9,7 +9,7 @@ from langchain_core.prompts import (
 from langchain.memory import ConversationBufferWindowMemory
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_groq import ChatGroq
-GROQ_API_KEY= "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"
+GROQ_API_KEY= " "
 llm= ChatGroq(model="llama-3.3-70b-versatile",api_key=GROQ_API_KEY)
 import os
 from dotenv import load_dotenv
