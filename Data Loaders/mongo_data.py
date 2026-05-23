@@ -2,7 +2,7 @@ from pymongo import MongoClient
 import json
 
 #connection_string
-mongo_cs ="mongodb+srv://vadhri:scBf3RaqaDSsTwxi@cluster0.dotrgan.mongodb.net/"
+mongo_cs =" "
 # Connect to MongoDB
 client = MongoClient(mongo_cs)
 
